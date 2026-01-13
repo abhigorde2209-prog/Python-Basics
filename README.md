@@ -1,5 +1,8 @@
 # Python Basics Demonstration
 
+# Integers, Floats Boolean
+# General operations
+
 This project is a simple Python script showcasing fundamental concepts such as strings, lists, tuples, sets, and loops. It is designed as a practice file to demonstrate how Python handles data structures, string manipulation, and control flow.
 
 📌 Features Demonstrated
