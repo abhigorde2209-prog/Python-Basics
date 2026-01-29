@@ -1,5 +1,4 @@
 # Python Basics Demonstration
-
 # Integers, Floats Boolean
 # General operations
 
